@@ -1,0 +1,10 @@
+[
+    {
+        "_id": "admin_01",
+        "fullName": "Super Admin",
+        "email": "admin@admin.com",
+        "password": "admin",
+        "ut": "sa",
+        "status": "active"
+    }
+]
